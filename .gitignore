@@ -1,0 +1,17 @@
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# Generated files
+artifacts/
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
