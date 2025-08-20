@@ -170,3 +170,5 @@ Step A: Record a 2-second sample from your microphone
 `python src/record_mic.py --out_path samples/mic_test.wav --duration 2.0 --samplerate 16000`
 
 Step B: Run prediction on your recording
+
+`python src/predict_wav.py --model_path models/baseline.joblib --wav_path samples/mic_test.wav`
