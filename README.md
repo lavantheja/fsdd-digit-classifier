@@ -1,3 +1,7 @@
+**Watch the video here(https://drive.google.com/file/d/1-oQYccLDItMywfJzhqVbXv-3IIaMT9bB/view?usp=drive_links).**
+
+
+
 **Overview**  
 This project builds a spoken digit classification system that recognizes digits 0 through 9 from short audio recordings. The core objective is to take an audio file or microphone input and output the most likely digit spoken. It is built on top of the Free Spoken Digit Dataset (FSDD) which is hosted on Hugging Face under the dataset name mteb/free-spoken-digit-dataset.
 
